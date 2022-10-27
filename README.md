@@ -21,9 +21,9 @@ Find the neighborhoods with the highest density of man hole covers.
 
 ### Source Data
 You will use two layers from the [City of Tucson's Open GIS Datasets](http://gisdata.tucsonaz.gov/) to conduct this analysis.
-The data are available in d2l (no longer publicly available from COT):
-- [Man Holes](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11518017/View)
-- [Neighborhood Associations](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11518018/View)
+The data are available in d2l:
+- `Man_Holes__Open_Data`
+- `Neighborhood_Associations__Open_Data`
 
 ### Strategy
 The overall goal is to identify the density of manhole covers within each subdivision. 
